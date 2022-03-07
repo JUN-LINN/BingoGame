@@ -1,0 +1,213 @@
+C:\Users\一加七\Desktop\上課\serverclient\server\server\bin\Debug\server.exe.config
+C:\Users\一加七\Desktop\上課\week7\serverclient\server\server\bin\Debug\server.exe.config
+C:\Users\shu\Downloads\serverclient\server\server\bin\Debug\server.exe.config
+C:\Users\shu\Downloads\serverclient\server\server\bin\Debug\server.exe
+C:\Users\shu\Downloads\serverclient\server\server\bin\Debug\server.pdb
+C:\Users\shu\Downloads\serverclient\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\shu\Downloads\serverclient\server\server\obj\Debug\server.Form1.resources
+C:\Users\shu\Downloads\serverclient\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\shu\Downloads\serverclient\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\shu\Downloads\serverclient\server\server\obj\Debug\server.exe
+C:\Users\shu\Downloads\serverclient\server\server\obj\Debug\server.pdb
+F:\Computer Networks\Week7_191024\serverclient\server\server\bin\Debug\server.exe.config
+F:\Computer Networks\Week7_191024\serverclient\server\server\obj\Debug\server.exe
+F:\Computer Networks\Week7_191024\serverclient\server\server\obj\Debug\server.pdb
+F:\Computer Networks\Week7_191024\serverclient\server\server\bin\Debug\server.exe
+F:\Computer Networks\Week7_191024\serverclient\server\server\bin\Debug\server.pdb
+F:\Computer Networks\Week7_191024\serverclient\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+F:\Computer Networks\Week7_191024\serverclient\server\server\obj\Debug\server.Form1.resources
+F:\Computer Networks\Week7_191024\serverclient\server\server\obj\Debug\server.Properties.Resources.resources
+F:\Computer Networks\Week7_191024\serverclient\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+F:\Computer Networks\Week07_20191024\serverclient\server\server\bin\Debug\server.exe.config
+F:\Computer Networks\Week07_20191024\serverclient\server\server\obj\Debug\server.exe
+F:\Computer Networks\Week07_20191024\serverclient\server\server\obj\Debug\server.pdb
+D:\SHU\10802\Computer Network TA\30Apl20\serverclient\server\server\bin\Debug\server.exe.config
+D:\SHU\10802\Computer Network TA\30Apl20\serverclient\server\server\bin\Debug\server.exe
+D:\SHU\10802\Computer Network TA\30Apl20\serverclient\server\server\bin\Debug\server.pdb
+D:\SHU\10802\Computer Network TA\30Apl20\serverclient\server\server\obj\Debug\server.csprojAssemblyReference.cache
+D:\SHU\10802\Computer Network TA\30Apl20\serverclient\server\server\obj\Debug\server.Form1.resources
+D:\SHU\10802\Computer Network TA\30Apl20\serverclient\server\server\obj\Debug\server.Properties.Resources.resources
+D:\SHU\10802\Computer Network TA\30Apl20\serverclient\server\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\SHU\10802\Computer Network TA\30Apl20\serverclient\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\SHU\10802\Computer Network TA\30Apl20\serverclient\server\server\obj\Debug\server.exe
+D:\SHU\10802\Computer Network TA\30Apl20\serverclient\server\server\obj\Debug\server.pdb
+E:\SHU\10901\Computer Network TA\10901\W11\server\server\bin\Debug\server.exe.config
+E:\SHU\10901\Computer Network TA\10901\W11\server\server\bin\Debug\server.exe
+E:\SHU\10901\Computer Network TA\10901\W11\server\server\bin\Debug\server.pdb
+E:\SHU\10901\Computer Network TA\10901\W11\server\server\obj\Debug\server.csprojAssemblyReference.cache
+E:\SHU\10901\Computer Network TA\10901\W11\server\server\obj\Debug\server.Form1.resources
+E:\SHU\10901\Computer Network TA\10901\W11\server\server\obj\Debug\server.Properties.Resources.resources
+E:\SHU\10901\Computer Network TA\10901\W11\server\server\obj\Debug\server.csproj.GenerateResource.cache
+E:\SHU\10901\Computer Network TA\10901\W11\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+E:\SHU\10901\Computer Network TA\10901\W11\server\server\obj\Debug\server.exe
+E:\SHU\10901\Computer Network TA\10901\W11\server\server\obj\Debug\server.pdb
+C:\Users\shu\Downloads\server\server\bin\Debug\server.exe.config
+C:\Users\shu\Downloads\server\server\bin\Debug\server.exe
+C:\Users\shu\Downloads\server\server\bin\Debug\server.pdb
+C:\Users\shu\Downloads\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\shu\Downloads\server\server\obj\Debug\server.Form1.resources
+C:\Users\shu\Downloads\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\shu\Downloads\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\shu\Downloads\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\shu\Downloads\server\server\obj\Debug\server.exe
+C:\Users\shu\Downloads\server\server\obj\Debug\server.pdb
+C:\Users\m306\Desktop\server\server\bin\Debug\server.exe.config
+C:\Users\m306\Desktop\server\server\bin\Debug\server.exe
+C:\Users\m306\Desktop\server\server\bin\Debug\server.pdb
+C:\Users\m306\Desktop\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\m306\Desktop\server\server\obj\Debug\server.Form1.resources
+C:\Users\m306\Desktop\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\m306\Desktop\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\m306\Desktop\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\m306\Desktop\server\server\obj\Debug\server.exe
+C:\Users\m306\Desktop\server\server\obj\Debug\server.pdb
+C:\Users\USER\Desktop\遊戲\1208\server\server\bin\Debug\server.exe.config
+C:\Users\USER\Desktop\遊戲\1208\server\server\bin\Debug\server.exe
+C:\Users\USER\Desktop\遊戲\1208\server\server\bin\Debug\server.pdb
+C:\Users\USER\Desktop\遊戲\1208\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\遊戲\1208\server\server\obj\Debug\server.Form1.resources
+C:\Users\USER\Desktop\遊戲\1208\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\USER\Desktop\遊戲\1208\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\遊戲\1208\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\遊戲\1208\server\server\obj\Debug\server.exe
+C:\Users\USER\Desktop\遊戲\1208\server\server\obj\Debug\server.pdb
+C:\Users\USER\Desktop\遊戲\1213\server\server\bin\Debug\server.exe.config
+C:\Users\USER\Desktop\遊戲\1213\server\server\bin\Debug\server.exe
+C:\Users\USER\Desktop\遊戲\1213\server\server\bin\Debug\server.pdb
+C:\Users\USER\Desktop\遊戲\1213\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\遊戲\1213\server\server\obj\Debug\server.Form1.resources
+C:\Users\USER\Desktop\遊戲\1213\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\USER\Desktop\遊戲\1213\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\遊戲\1213\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\遊戲\1213\server\server\obj\Debug\server.exe
+C:\Users\USER\Desktop\遊戲\1213\server\server\obj\Debug\server.pdb
+C:\Users\USER\Desktop\遊戲\1214\server\server\bin\Debug\server.exe.config
+C:\Users\USER\Desktop\遊戲\1214\server\server\bin\Debug\server.exe
+C:\Users\USER\Desktop\遊戲\1214\server\server\bin\Debug\server.pdb
+C:\Users\USER\Desktop\遊戲\1214\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\遊戲\1214\server\server\obj\Debug\server.Form1.resources
+C:\Users\USER\Desktop\遊戲\1214\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\USER\Desktop\遊戲\1214\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\遊戲\1214\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\遊戲\1214\server\server\obj\Debug\server.exe
+C:\Users\USER\Desktop\遊戲\1214\server\server\obj\Debug\server.pdb
+C:\Users\USER\Desktop\遊戲\1216\server\server\bin\Debug\server.exe.config
+C:\Users\USER\Desktop\遊戲\1216\server\server\bin\Debug\server.exe
+C:\Users\USER\Desktop\遊戲\1216\server\server\bin\Debug\server.pdb
+C:\Users\USER\Desktop\遊戲\1216\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\遊戲\1216\server\server\obj\Debug\server.Form1.resources
+C:\Users\USER\Desktop\遊戲\1216\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\USER\Desktop\遊戲\1216\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\遊戲\1216\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\遊戲\1216\server\server\obj\Debug\server.exe
+C:\Users\USER\Desktop\遊戲\1216\server\server\obj\Debug\server.pdb
+C:\Users\a108221026\Downloads\1217\1217\server\server\bin\Debug\server.exe.config
+C:\Users\a108221026\Downloads\1217\1217\server\server\bin\Debug\server.exe
+C:\Users\a108221026\Downloads\1217\1217\server\server\bin\Debug\server.pdb
+C:\Users\a108221026\Downloads\1217\1217\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\a108221026\Downloads\1217\1217\server\server\obj\Debug\server.Form1.resources
+C:\Users\a108221026\Downloads\1217\1217\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\a108221026\Downloads\1217\1217\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\a108221026\Downloads\1217\1217\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\a108221026\Downloads\1217\1217\server\server\obj\Debug\server.exe
+C:\Users\a108221026\Downloads\1217\1217\server\server\obj\Debug\server.pdb
+C:\Users\shu\Downloads\1218\1217\server\server\bin\Debug\server.exe.config
+C:\Users\shu\Downloads\1218\1217\server\server\bin\Debug\server.exe
+C:\Users\shu\Downloads\1218\1217\server\server\bin\Debug\server.pdb
+C:\Users\shu\Downloads\1218\1217\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\shu\Downloads\1218\1217\server\server\obj\Debug\server.Form1.resources
+C:\Users\shu\Downloads\1218\1217\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\shu\Downloads\1218\1217\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\shu\Downloads\1218\1217\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\shu\Downloads\1218\1217\server\server\obj\Debug\server.exe
+C:\Users\shu\Downloads\1218\1217\server\server\obj\Debug\server.pdb
+C:\Users\USER\Desktop\遊戲\1218\1217\server\server\bin\Debug\server.exe.config
+C:\Users\USER\Desktop\遊戲\1218\1217\server\server\bin\Debug\server.exe
+C:\Users\USER\Desktop\遊戲\1218\1217\server\server\bin\Debug\server.pdb
+C:\Users\USER\Desktop\遊戲\1218\1217\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\遊戲\1218\1217\server\server\obj\Debug\server.Form1.resources
+C:\Users\USER\Desktop\遊戲\1218\1217\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\USER\Desktop\遊戲\1218\1217\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\遊戲\1218\1217\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\遊戲\1218\1217\server\server\obj\Debug\server.exe
+C:\Users\USER\Desktop\遊戲\1218\1217\server\server\obj\Debug\server.pdb
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\server\server\bin\Debug\server.exe.config
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\server\server\bin\Debug\server.exe
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\server\server\bin\Debug\server.pdb
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\server\server\obj\Debug\server.Form1.resources
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\server\server\obj\Debug\server.exe
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\server\server\obj\Debug\server.pdb
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\server\server\bin\Debug\server.exe.config
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\server\server\bin\Debug\server.exe
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\server\server\bin\Debug\server.pdb
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\server\server\obj\Debug\server.Form1.resources
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\server\server\obj\Debug\server.exe
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\server\server\obj\Debug\server.pdb
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\server\server\bin\Debug\server.exe.config
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\server\server\bin\Debug\server.exe
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\server\server\bin\Debug\server.pdb
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\server\server\obj\Debug\server.Form1.resources
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\server\server\obj\Debug\server.exe
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\server\server\obj\Debug\server.pdb
+C:\Users\shu\Downloads\剩tie\剩tie\server\server\bin\Debug\server.exe.config
+C:\Users\shu\Downloads\剩tie\剩tie\server\server\bin\Debug\server.exe
+C:\Users\shu\Downloads\剩tie\剩tie\server\server\bin\Debug\server.pdb
+C:\Users\shu\Downloads\剩tie\剩tie\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\shu\Downloads\剩tie\剩tie\server\server\obj\Debug\server.Form1.resources
+C:\Users\shu\Downloads\剩tie\剩tie\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\shu\Downloads\剩tie\剩tie\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\shu\Downloads\剩tie\剩tie\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\shu\Downloads\剩tie\剩tie\server\server\obj\Debug\server.exe
+C:\Users\shu\Downloads\剩tie\剩tie\server\server\obj\Debug\server.pdb
+C:\Users\Ashley\Downloads\2012\201221\server\server\bin\Debug\server.exe.config
+C:\Users\Ashley\Downloads\2012\201221\server\server\bin\Debug\server.exe
+C:\Users\Ashley\Downloads\2012\201221\server\server\bin\Debug\server.pdb
+C:\Users\Ashley\Downloads\2012\201221\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\Ashley\Downloads\2012\201221\server\server\obj\Debug\server.Form1.resources
+C:\Users\Ashley\Downloads\2012\201221\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Ashley\Downloads\2012\201221\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\Ashley\Downloads\2012\201221\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\Ashley\Downloads\2012\201221\server\server\obj\Debug\server.exe
+C:\Users\Ashley\Downloads\2012\201221\server\server\obj\Debug\server.pdb
+C:\Users\A108221058\Downloads\新增資料夾\good\server\server\bin\Debug\server.exe.config
+C:\Users\A108221058\Downloads\新增資料夾\good\server\server\bin\Debug\server.exe
+C:\Users\A108221058\Downloads\新增資料夾\good\server\server\bin\Debug\server.pdb
+C:\Users\A108221058\Downloads\新增資料夾\good\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\A108221058\Downloads\新增資料夾\good\server\server\obj\Debug\server.Form1.resources
+C:\Users\A108221058\Downloads\新增資料夾\good\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\A108221058\Downloads\新增資料夾\good\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\A108221058\Downloads\新增資料夾\good\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\A108221058\Downloads\新增資料夾\good\server\server\obj\Debug\server.exe
+C:\Users\A108221058\Downloads\新增資料夾\good\server\server\obj\Debug\server.pdb
+C:\Users\USER\Desktop\遊戲\merrychristmas\server\server\bin\Debug\server.exe.config
+C:\Users\USER\Desktop\遊戲\merrychristmas\server\server\bin\Debug\server.exe
+C:\Users\USER\Desktop\遊戲\merrychristmas\server\server\bin\Debug\server.pdb
+C:\Users\USER\Desktop\遊戲\merrychristmas\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\遊戲\merrychristmas\server\server\obj\Debug\server.Form1.resources
+C:\Users\USER\Desktop\遊戲\merrychristmas\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\USER\Desktop\遊戲\merrychristmas\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\遊戲\merrychristmas\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\遊戲\merrychristmas\server\server\obj\Debug\server.exe
+C:\Users\USER\Desktop\遊戲\merrychristmas\server\server\obj\Debug\server.pdb
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\server\server\bin\Debug\server.exe.config
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\server\server\bin\Debug\server.exe
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\server\server\bin\Debug\server.pdb
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\server\server\obj\Debug\server.Form1.resources
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\server\server\obj\Debug\server.exe
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\server\server\obj\Debug\server.pdb

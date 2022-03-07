@@ -1,0 +1,200 @@
+E:\SHU\10901\Computer Network TA\10901\W11\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+E:\SHU\10901\Computer Network TA\10901\W11\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+E:\SHU\10901\Computer Network TA\10901\W11\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+E:\SHU\10901\Computer Network TA\10901\W11\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+E:\SHU\10901\Computer Network TA\10901\W11\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+E:\SHU\10901\Computer Network TA\10901\W11\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+E:\SHU\10901\Computer Network TA\10901\W11\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+E:\SHU\10901\Computer Network TA\10901\W11\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+E:\SHU\10901\Computer Network TA\10901\W11\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+E:\SHU\10901\Computer Network TA\10901\W11\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\shu\Downloads\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\shu\Downloads\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\shu\Downloads\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\shu\Downloads\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\shu\Downloads\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\shu\Downloads\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\shu\Downloads\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\shu\Downloads\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\shu\Downloads\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\shu\Downloads\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\USER\Desktop\遊戲\新增資料夾\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\USER\Desktop\遊戲\新增資料夾\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\USER\Desktop\遊戲\新增資料夾\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\USER\Desktop\遊戲\新增資料夾\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\遊戲\新增資料夾\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\USER\Desktop\遊戲\新增資料夾\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\USER\Desktop\遊戲\新增資料夾\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\遊戲\新增資料夾\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\遊戲\新增資料夾\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\USER\Desktop\遊戲\新增資料夾\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\m306\Desktop\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\m306\Desktop\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\m306\Desktop\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\m306\Desktop\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\m306\Desktop\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\m306\Desktop\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\m306\Desktop\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\m306\Desktop\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\m306\Desktop\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\m306\Desktop\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\USER\Desktop\遊戲\1208\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\USER\Desktop\遊戲\1208\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\USER\Desktop\遊戲\1208\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\USER\Desktop\遊戲\1208\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\遊戲\1208\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\USER\Desktop\遊戲\1208\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\USER\Desktop\遊戲\1208\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\遊戲\1208\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\遊戲\1208\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\USER\Desktop\遊戲\1208\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\USER\Desktop\遊戲\1213\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\USER\Desktop\遊戲\1213\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\USER\Desktop\遊戲\1213\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\USER\Desktop\遊戲\1213\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\遊戲\1213\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\USER\Desktop\遊戲\1213\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\USER\Desktop\遊戲\1213\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\遊戲\1213\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\遊戲\1213\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\USER\Desktop\遊戲\1213\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\USER\Desktop\遊戲\1214\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\USER\Desktop\遊戲\1214\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\USER\Desktop\遊戲\1214\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\USER\Desktop\遊戲\1214\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\遊戲\1214\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\USER\Desktop\遊戲\1214\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\USER\Desktop\遊戲\1214\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\遊戲\1214\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\遊戲\1214\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\USER\Desktop\遊戲\1214\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\USER\Desktop\遊戲\1216\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\USER\Desktop\遊戲\1216\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\USER\Desktop\遊戲\1216\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\USER\Desktop\遊戲\1216\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\遊戲\1216\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\USER\Desktop\遊戲\1216\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\USER\Desktop\遊戲\1216\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\遊戲\1216\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\遊戲\1216\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\USER\Desktop\遊戲\1216\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\a108221026\Downloads\1217\1217\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\a108221026\Downloads\1217\1217\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\a108221026\Downloads\1217\1217\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\a108221026\Downloads\1217\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\a108221026\Downloads\1217\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\a108221026\Downloads\1217\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\a108221026\Downloads\1217\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\a108221026\Downloads\1217\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\a108221026\Downloads\1217\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\a108221026\Downloads\1217\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\shu\Downloads\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\shu\Downloads\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\shu\Downloads\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\shu\Downloads\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\shu\Downloads\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\shu\Downloads\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\shu\Downloads\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\shu\Downloads\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\shu\Downloads\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\shu\Downloads\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\USER\Desktop\遊戲\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\USER\Desktop\遊戲\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\USER\Desktop\遊戲\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\USER\Desktop\遊戲\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\遊戲\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\USER\Desktop\遊戲\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\USER\Desktop\遊戲\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\遊戲\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\遊戲\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\USER\Desktop\遊戲\1218\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\Ashley\Downloads\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\1217\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\Avril\Downloads\1219 (1)\1219 (1)\1219\bingo2\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\shu\Downloads\剩tie\剩tie\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\shu\Downloads\剩tie\剩tie\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\shu\Downloads\剩tie\剩tie\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\shu\Downloads\剩tie\剩tie\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\shu\Downloads\剩tie\剩tie\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\shu\Downloads\剩tie\剩tie\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\shu\Downloads\剩tie\剩tie\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\shu\Downloads\剩tie\剩tie\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\shu\Downloads\剩tie\剩tie\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\shu\Downloads\剩tie\剩tie\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\Ashley\Downloads\2012\201221\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\Ashley\Downloads\2012\201221\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\Ashley\Downloads\2012\201221\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\Ashley\Downloads\2012\201221\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\Ashley\Downloads\2012\201221\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\Ashley\Downloads\2012\201221\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\Ashley\Downloads\2012\201221\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\Ashley\Downloads\2012\201221\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\Ashley\Downloads\2012\201221\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\Ashley\Downloads\2012\201221\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\A108221058\Downloads\新增資料夾\good\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\A108221058\Downloads\新增資料夾\good\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\A108221058\Downloads\新增資料夾\good\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\A108221058\Downloads\新增資料夾\good\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\A108221058\Downloads\新增資料夾\good\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\A108221058\Downloads\新增資料夾\good\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\A108221058\Downloads\新增資料夾\good\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\A108221058\Downloads\新增資料夾\good\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\A108221058\Downloads\新增資料夾\good\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\A108221058\Downloads\新增資料夾\good\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\USER\Desktop\遊戲\merrychristmas\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\USER\Desktop\遊戲\merrychristmas\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\USER\Desktop\遊戲\merrychristmas\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\USER\Desktop\遊戲\merrychristmas\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\遊戲\merrychristmas\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\USER\Desktop\遊戲\merrychristmas\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\USER\Desktop\遊戲\merrychristmas\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\遊戲\merrychristmas\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\遊戲\merrychristmas\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\USER\Desktop\遊戲\merrychristmas\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic.Form1.resources
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\USER\Desktop\遊戲\贏的人顯示出來\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
